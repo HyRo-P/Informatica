@@ -5,7 +5,7 @@ int main() {
     float prezzoPieno, prezzoScontato, sconto;
 
     std::cout << "Calcolo Percentuale di Sconto" << std::endl;
-    std::cout << "1. Calcola lo sconto (%).\n" << std::endl;
+    std::cout << "1. Calcola lo sconto (%)." << std::endl;
     std::cout << "2. Calcola il prezzo scontato." << std::endl;
     std::cout << "3. Calcola il prezzo pieno." << std::endl;
     std::cout << "Inserisci la tua scelta (1, 2 o 3): ";
